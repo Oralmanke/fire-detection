@@ -7,7 +7,7 @@ edge inference on NVIDIA Jetson. Focused on reducing false
 positives from common confusers like sunset glare and warm lighting.
 
 ## Planned Approach
-- YOLOv8 trained on the D-Fire dataset
+- YOLOv11 trained on the D-Fire dataset
 - Hard-negative mining to reduce false positives
 - TensorRT optimization (FP16/INT8) for edge deployment
 - Real-time video demo
