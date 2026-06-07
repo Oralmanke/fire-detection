@@ -16,7 +16,7 @@ reducing false positives (see [Datasets](#datasets)).
 
 ## Results
 
-The project went through two training runs. The second run runned in YOLO11s,
+The project went through two training runs. The second ran runned in YOLO11s,
 trained longer with early stopping, used a higher input resolution, and added
 hard-negative / confuser images to the data.
 
