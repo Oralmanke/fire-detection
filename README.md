@@ -62,10 +62,10 @@ D-Fire was used in full; the others were added in part.
 
 | Dataset | Role in this project |
 |---|---|
-| [D-Fire](https://github.com/gaiasd/DFireDataset) | Main dataset (fire & smoke) |  Venâncio et al., 2022 [^1] 
-| [HPWREN / AI For Mankind](https://github.com/aiformankind/wildfire-smoke-dataset) | Cloud vs. smoke distinction |  AI For Mankind & HPWREN [^2] 
-| [BoWFire](https://www.kaggle.com/datasets/malligasenthil/bowfire) | Negative samples (fire / not-fire) |  Chino et al., 2015 [^3] 
-| [DetectiumFire](https://www.kaggle.com/datasets/yimengfuyao/detectiumfire) | Background / confuser samples |  Liu et al., 2025 [^4] 
+| [D-Fire](https://github.com/gaiasd/DFireDataset) | Main dataset (fire & smoke) |  
+| [HPWREN / AI For Mankind](https://github.com/aiformankind/wildfire-smoke-dataset) | Cloud vs. smoke distinction |  
+| [BoWFire](https://www.kaggle.com/datasets/malligasenthil/bowfire) | Negative samples (fire / not-fire) |  
+| [DetectiumFire](https://www.kaggle.com/datasets/yimengfuyao/detectiumfire) | Background / confuser samples |  
 
 
 ## Demo
@@ -134,10 +134,10 @@ MIT — see [LICENSE](LICENSE).
 
 ## References
 
-[^1]: Venâncio et al. "An automatic fire detection system based on deep convolutional neural networks for low-power, resource-constrained devices." *Neural Computing and Applications*, 2022.
+<a name="ref1"></a>[1] Venâncio et al. "An automatic fire detection system..." *Neural Computing and Applications*, 2022.
 
-[^2]: AI For Mankind & HPWREN. Wildfire Smoke Dataset. Licensed under CC BY-NC-SA 4.0. https://github.com/aiformankind/wildfire-smoke-dataset
+<a name="ref2"></a>[2] AI For Mankind & HPWREN. Wildfire Smoke Dataset. CC BY-NC-SA 4.0. https://github.com/aiformankind/wildfire-smoke-dataset
 
-[^3]: Chino et al. "BoWFire: Detection of Fire in Still Images by Integrating Pixel Color and Texture Analysis." *SIBGRAPI*, 2015. https://arxiv.org/abs/1506.03495
+<a name="ref3"></a>[3] Chino et al. "BoWFire: Detection of Fire in Still Images..." *SIBGRAPI*, 2015. https://arxiv.org/abs/1506.03495
 
-[^4]: Liu et al. "DetectiumFire: A Comprehensive Multi-modal Dataset Bridging Vision and Language for Fire Understanding." *NeurIPS 2025*. https://arxiv.org/abs/2511.02495
+<a name="ref4"></a>[4] Liu et al. "DetectiumFire: A Comprehensive Multi-modal Dataset..." *NeurIPS 2025*. https://arxiv.org/abs/2511.02495
